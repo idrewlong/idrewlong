@@ -9,9 +9,9 @@
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - [Remote - SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh)
-- [ES Lint](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+- [ES Lint](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh(https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 - [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
-- [vscode-icons](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
+- [vscode-icons](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss(https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
 - VS Code Themes:
   - [One Monokai Theme](https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai)
   - [SynthWave '84](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode)
