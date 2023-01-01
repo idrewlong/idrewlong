@@ -3,7 +3,21 @@
 <!--
 **idrewlong/idrewlong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+#**Quickstarts/Templates:**
+- [Sveltekit Template w/ Tailwind CSS](https://github.com/idrewlong/mysvelte-w-Tailwind)
+
+
+#🧰**Toolbox**
+- Computer: MSI P65 Creator 9SE
+- Editor: VSCode
+- Headphones: Audio-Technica ATH-M50x
+- Mic: Audio-Technica AT2020
+
+#💬 **Connect:**
+✉️ drew@findersguide.io / idrewlong@gmail.com
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
