@@ -2,7 +2,7 @@
 
 **💡Quickstarts/Templates:**
 - [Sveltekit Template w/ Tailwind CSS + Nav](https://github.com/idrewlong/mysvelte-w-Tailwind)
-
+- [Basic To-Do List](https://github.com/idrewlong/To-Do-List)
 
 **🧑‍💻 VSCode Must Haves**
 - [Intellicode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
