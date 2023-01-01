@@ -4,6 +4,12 @@
 - [Sveltekit Template w/ Tailwind CSS + Nav](https://github.com/idrewlong/mysvelte-w-Tailwind)
 - [Basic To-Do List in JS / No Styling](https://github.com/idrewlong/To-Do-List)
 
+
+
+**Other Helpful Info**
+- [Adders for Sveltekit](https://github.com/svelte-add/svelte-add)
+- [Discord Bot Template](https://github.com/qudo-code/template--discord-bot)
+
 **🧑‍💻 VSCode Must Haves**
 - [Intellicode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
@@ -37,7 +43,7 @@
   - FL Studio
 
 📫**Connect:**
-✉️ drew@findersguide.io / idrewlong@gmail.com
+- ✉️ drew@findersguide.io / idrewlong@gmail.com
 
 
 
