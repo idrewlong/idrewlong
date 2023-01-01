@@ -1,12 +1,12 @@
 
 
-**💡Quickstarts/Templates:**
+**💡 Quickstarts/Templates:**
 - [Sveltekit Template w/ Tailwind CSS + Nav](https://github.com/idrewlong/mysvelte-w-Tailwind)
 - [Basic To-Do List in JS / No Styling](https://github.com/idrewlong/To-Do-List)
 
 
 
-**Other Helpful Info**
+**🧠 Other Helpful Info**
 - [Adders for Sveltekit](https://github.com/svelte-add/svelte-add)
 - [Discord Bot Template](https://github.com/qudo-code/template--discord-bot)
 
@@ -29,7 +29,7 @@
   - [R Dark Pro](https://marketplace.visualstudio.com/items?itemName=Rezky.r-dark-pro)
 
 
-🧰**Toolbox**
+**🧰Toolbox**
 - Computer: MSI P65 Creator 9SE
 - Editor: VSCode
 - Headphones: Audio-Technica ATH-M50x
@@ -42,7 +42,7 @@
   - Adobe Illustration
   - FL Studio
 
-📫**Connect:**
+**📫Connect:**
 - ✉️ drew@findersguide.io / idrewlong@gmail.com
 
 
