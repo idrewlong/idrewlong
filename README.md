@@ -1,14 +1,26 @@
 
 
 **💡Quickstarts/Templates:**
-- [Sveltekit Template w/ Tailwind CSS](https://github.com/idrewlong/mysvelte-w-Tailwind)
+- [Sveltekit Template w/ Tailwind CSS + Nav](https://github.com/idrewlong/mysvelte-w-Tailwind)
+
 
 **🧑‍💻 VSCode Must Haves**
 - [Intellicode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-- [Remote-SSH]  (https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh)
-
+- [Remote - SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh)
+- [ES Lint]([https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint))
+- [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
+- [vscode-icons]([https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons))
+- VS Code Themes:
+  - [One Monokai Theme](https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai)
+  - [SynthWave '84](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode)
+  - [beSunflower-theme](https://marketplace.visualstudio.com/items?itemName=HashiramaNaiff.beSunflower-theme)
+  - [Shades of Purple (darker)](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple)
+  - [apple dark](https://marketplace.visualstudio.com/items?itemName=Mac3.apple-dark)
+  - [Fallout Pip-Boy Theme](https://marketplace.visualstudio.com/items?itemName=FcGod.fallout-pip-boy-theme)
+  - [Kaolin Themes](https://marketplace.visualstudio.com/items?itemName=zed-nait.kaolin-vscode-themes)
+  - [R Dark Pro](https://marketplace.visualstudio.com/items?itemName=Rezky.r-dark-pro)
 
 
 🧰**Toolbox**
