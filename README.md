@@ -2,7 +2,7 @@
 
 **💡 My Quickstarts/Templates:**
 - [Sveltekit Template w/ Tailwind CSS + Icons + Navs](https://github.com/idrewlong/mysvelte-w-Tailwind)
-- [Basic To-Do List in JS / No Styling](https://github.com/idrewlong/To-Do-List)
+
 
 
 
