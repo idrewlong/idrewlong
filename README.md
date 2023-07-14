@@ -1,7 +1,7 @@
 
 
 **💡 My Quickstarts/Templates:**
-- [Sveltekit Template w/ Tailwind CSS] (https://github.com/idrewlong/svelte_tailwind2023)
+- [Sveltekit Template w/ Tailwind CSS](https://github.com/idrewlong/svelte_tailwind2023)
 - [Sveltekit Template w/ Tailwind CSS + Icons + Navs](https://github.com/idrewlong/mysvelte-w-Tailwind)
 
 
