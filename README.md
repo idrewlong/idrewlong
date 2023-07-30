@@ -32,7 +32,7 @@
 
 
 **🧰Toolbox**
-- Computer: MSI P65 Creator 9SE
+- Computer: MSI P65 Creator 9SE & Mac Mini M2 Pro
 - Editor: VSCode
 - Headphones: Audio-Technica ATH-M50x
 - Mic: Audio-Technica AT2020
@@ -40,8 +40,10 @@
   - Adobe Premiere
   - Adobe Photoshop
   - Adobe AfterEffects
+  - Adobe XD
   - Adobe InDesign
   - Adobe Illustration
+  - Figma
   - FL Studio
 
 **📫Connect:**
