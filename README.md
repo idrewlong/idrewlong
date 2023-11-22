@@ -30,7 +30,7 @@
 
 
 **🧰Toolbox**
-- Computer: MSI P65 Creator 9SE & Mac Mini M2 Pro
+- Computer: Mac Mini M2 Pro | Macbook Air M2
 - Editor: VSCode
 - Headphones: Audio-Technica ATH-M50x
 - Mic: Audio-Technica AT2020
@@ -43,9 +43,10 @@
   - Adobe Illustration
   - Figma
   - FL Studio
+  - Notion
 
 **📫Connect:**
-- ✉️ drew@findersguide.io / idrewlong@gmail.com
+- ✉️ idrewlong@gmail.com
 
 
 
