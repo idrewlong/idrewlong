@@ -1,6 +1,7 @@
 
 
 **💡 My Quickstarts/Templates:**
+- [Svelte + Tailwind CSS "Portfolio" Template](https://github.com/idrewlong/svelte_resume)
 - [Sveltekit Template w/ Tailwind CSS + Nav Bar](https://github.com/idrewlong/svelte_tailwind2023)
 - [Next.js 13 Template w/ Tailwind CSS + Nav Bar](https://github.com/idrewlong/next13-w-navbar)
 - [SvelteKit + Tailwind CSS "LinkTree" Template](https://github.com/idrewlong/sveltekit-linktree)
