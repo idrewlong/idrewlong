@@ -9,7 +9,7 @@
 
 
 # 💫 About Me:
-Welcome to my GitHub! I'm a FullStack Developer, Software Engineer, Marketing consultant <br><br>💻 About Me:<br>SEO Developer at Mad Genius, where I get to work on sites and tools for clients and our company.
+Welcome to my GitHub! I'm a FullStack Developer & Marketing Consultant <br><br>💻 About Me:<br>SEO Developer at Mad Genius, where I get to work on sites and tools for clients and our company.
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:idrewlong@gmail.com) 
