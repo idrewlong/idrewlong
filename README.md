@@ -20,11 +20,8 @@ Currently a developer at Mad Genius, where I work across the full stack for stat
 A Go CLI tool for batch compressing and converting images (JPG, PNG, TIFF, WebP, HEIC, AVIF, GIF). Uses a binary search algorithm to hit target file sizes with optimal quality, powered by libvips.
 
 Interactive wizard — auto-detects image folders, walks you through format & quality settings
-
 Direct CLI mode — scriptable with flags for format, size, quality, workers, recursive scan
-
 Concurrent processing — worker pool sized to your CPU cores
-
 Homebrew distribution — brew install idrewlong/tap/shrinkr
 
 
