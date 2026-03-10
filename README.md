@@ -12,6 +12,7 @@
 Hey, I'm Andrew Long
 Full-stack developer & photographer currently based on the Mississippi Gulf Coast. I consult businesses and build web applications with Laravel, React, Nuxt.js, and Go.
 Currently a developer at Mad Genius, where I work across the full stack for state agencies and regional brands. On my own time, I build CLI tools, headless CMS sites for small businesses, and side projects that scratch my own itch.
+
 🔗 [idrewfilm.com](https://idrewfilm.com/) · [idrewlong.com](https://www.idrewlong.com/) · [LinkedIn](https://www.linkedin.com/in/idrewlong/) · [Email](mailto:idrewlong@gmail.com) 
 
 ## 🔨 Featured Projects
