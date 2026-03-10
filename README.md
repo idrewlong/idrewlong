@@ -12,13 +12,10 @@
 Hey, I'm Andrew Long
 Full-stack developer & photographer currently based on the Mississippi Gulf Coast. I consult businesses and build web applications with Laravel, React, Nuxt.js, and Go.
 Currently a developer at Mad Genius, where I work across the full stack for state agencies and regional brands. On my own time, I build CLI tools, headless CMS sites for small businesses, and side projects that scratch my own itch.
-🔗 [idrewfilm.com](https://idrewfilm.com/) · [idrewlong.com](https://www.idrewlong.com/) · [LinkedIn](https://www.linkedin.com/in/idrewlong/)
-
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:idrewlong@gmail.com) 
+🔗 [idrewfilm.com](https://idrewfilm.com/) · [idrewlong.com](https://www.idrewlong.com/) · [LinkedIn](https://www.linkedin.com/in/idrewlong/) · [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:idrewlong@gmail.com) 
 
 ## 🔨 Featured Projects
-Shrinkr CLI — Fast image compression when you need it 
+[Shrinkr CLI](https://cli.shrinkr.app/) — Fast image compression when you need it 
 A Go CLI tool for batch compressing and converting images (JPG, PNG, TIFF, WebP, HEIC, AVIF, GIF). Uses a binary search algorithm to hit target file sizes with optimal quality, powered by libvips.
 
 Interactive wizard — auto-detects image folders, walks you through format & quality settings
@@ -26,13 +23,8 @@ Direct CLI mode — scriptable with flags for format, size, quality, workers, re
 Concurrent processing — worker pool sized to your CPU cores
 Homebrew distribution — brew install idrewlong/tap/shrinkr
 
-bash# Compress a folder to WebP at 500KB target
-shrinkr ./photos
-
-# Custom format and output
-shrinkr ./photos -f jpeg -s 300 -o ./compressed
 Go · libvips · Cobra · GoReleaser · GitHub Actions
-🌐 cli.shrinkr.app
+🌐 [cli.shrinkr.app](https://cli.shrinkr.app/)
 
 # 💻 Skills & Technology:
 ## Tech @ Mad Genius:
@@ -56,4 +48,11 @@ Go · libvips · Cobra · GoReleaser · GitHub Actions
 ## Tools:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=flat&logo=bitwarden&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
 
-
+## 📊 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=idrewlong&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idrewlong&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165" />
+</p>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=idrewlong&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
