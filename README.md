@@ -27,12 +27,3 @@ A Go CLI tool for batch compressing and converting images (JPG, PNG, TIFF, WebP,
 
 Go · libvips · Cobra · GoReleaser · GitHub Actions
 🌐 [cli.shrinkr.app](https://cli.shrinkr.app/)
-
-
-## 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idrewlong&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165" />
-</p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=idrewlong&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
